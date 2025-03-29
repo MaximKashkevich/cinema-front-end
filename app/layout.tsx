@@ -28,7 +28,7 @@ export default function RootLayout({
 				<link rel='icon' href='/trophy.png' />
 			</head>
 			<body
-				className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+				className={`${geistSans.variable} ${geistMono.variable} antialiased `}
 			>
 				{children}
 			</body>
