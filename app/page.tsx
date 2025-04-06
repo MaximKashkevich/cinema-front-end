@@ -4,7 +4,7 @@ export default function Home() {
 	return (
 		<>
 			<Header />
-			<main className='p-4'>
+			<main className=''>
 				<h1>Главная</h1>
 			</main>
 		</>
